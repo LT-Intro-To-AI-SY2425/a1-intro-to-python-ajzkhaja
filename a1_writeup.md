@@ -14,10 +14,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+I think python is an interesting programming language. It is much easier than Java because you don't need extra code to do a simple task. 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
+Some similarities are that you need to have almost everything in quotation marks and parenthesis. Some differences are that you don't need as much code when writing python. For example, you don't need a ";" at the end of a line of code. However, in Java you would need this. 
 
 
 
 3. What are some things that you learned through this assignment?
+I learned how to assign a variable and print it vertically and horizontally in the terminal. In other words, print it in a straght line or print it in columns. 

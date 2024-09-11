@@ -17,3 +17,12 @@ assert fizbuzz(5) == "Buzz", "fizzbuzz 5 test"
 assert fizbuzz(6) == "Fizz", "fizzbuzz 6 test"
 assert fizbuzz(15) == "FizzBuzz", "fizzbuzz 15 test"
 
+print('hello world')
+
+name = 'roger'
+name2 = 'Sam'
+name3 = 'Alex'
+print(name)
+print(name2)
+print(name3)
+
