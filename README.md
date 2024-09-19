@@ -119,9 +119,8 @@ string_list = ["apple", "banana", "cherry", "date"]
 
 for index, item in enumerate(string_list):
     print(f"Item at index {index}: {item}")
-```
 
-Using list comprehensions, you can achieve concise printing of the entire list in a single line:
+Using list comprehensions, you can achieve concise printing of the entire list in a single line:  
 
 ```python
 string_list = ["apple", "banana", "cherry", "date"]
@@ -164,5 +163,6 @@ Keep in mind that the `join()` function works with strings, so if your list cont
 
 Now, at this point, you should do other two things:
 
-1. Searching for “join() Python” on Google and see some other examples and read the documentation.
-2. Continue the chat and ask for an example (then, read the documentation that may come with the next examples).
+1. Searching for “join() Python” on Google and see some other examples and read the documentation.  
+2. Continue the chat and ask for an example (then, read the documentation that may come with the next examples).  
+
